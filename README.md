@@ -1,5 +1,5 @@
 # Shopping Cart Project
-This was originally a project for CS 3320: Internet Software Development
+This was originally a project for CS 3320: Internet Software Development.
 It is a fork from
 [This](https://github.com/georgeotj/InternetSoftwareDev3320) repository.
 
