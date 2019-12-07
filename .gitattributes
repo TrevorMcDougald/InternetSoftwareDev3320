@@ -1,5 +1,8 @@
 * text=auto
 
+*.js linguist-detectable=true
+*.css linguist-detectable=false
+
 # These files are text and should be normalized (Convert crlf => lf)
 *.php  text
 *.css  text
