@@ -1,16 +1,9 @@
-# CS 3320: Internet Software Development
-Objective: To create an e-commerce website that will allow a user to run
-through the process of creating an order.
+# Shopping Cart Project
+This was originally a project for CS 3320: Internet Software Development
+It is a fork from
+[This](https://github.com/georgeotj/InternetSoftwareDev3320) repository.
 
-    <includedPredefinedLibrary name="Node.js Core" />
-
-
-
-
-## Project Structure: 
-*place_holder.txt was only added so the directory would push to github,
-after you pull the file layout structure you can delete them*
-     
+## Project Structure:      
         .
         ├── docs 
         │   ├── page_images 
@@ -87,7 +80,7 @@ after you pull the file layout structure you can delete them*
         │
         └── README.md
          
-## Current Page Images (9-13-2019)
+## Page Images (9-13-2019)
 #### Top of Home Page:
 ------
 ![User Information](https://github.com/georgeotj/InternetSoftwareDev3320/blob/master/docs/page_images/main-page-top.PNG) 
